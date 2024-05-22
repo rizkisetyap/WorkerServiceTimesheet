@@ -1,0 +1,1 @@
+sc create WorkerTimesheet DisplayName="Worker Timesheet" binPath= "D:\publish\workerservice\WorkerServiceTimesheet.exe"
